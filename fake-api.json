@@ -1,0 +1,31 @@
+{
+  "parafusos": [
+    {
+      "id": 1,
+      "tipo": "hexagonal",
+      "diametro": 4,
+      "comprimento": 12,
+      "material": "aço inoxidável",
+      "resistenciaMecanica": "A2-70",
+      "aplicacao": "estrutural"
+    },
+    {
+      "id": 2,
+      "tipo": "philips",
+      "diametro": 3,
+      "comprimento": 16,
+      "material": "aço carbono",
+      "resistenciaMecanica": "4.8",
+      "aplicacao": "geral"
+    },
+    {
+      "id": 3,
+      "tipo": "torx",
+      "diametro": 5,
+      "comprimento": 20,
+      "material": "liga de titânio",
+      "resistenciaMecanica": "Gr5",
+      "aplicacao": "aeroespacial"
+    }
+  ]
+}
